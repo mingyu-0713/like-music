@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bar {
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    background: gray;
+}
+
+.project {
+    text-align: center;
+    position: relative;
+    top: 14px;
+}
+
+.content {
+    padding-top: 50px;
+}
