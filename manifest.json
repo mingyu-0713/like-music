@@ -1,0 +1,15 @@
+{
+    "short_name": "like_music",
+    "name": "like_music",
+    "icons": [
+        {
+            "src": "./img/icon/logo.png",
+            "size": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "./",
+    "display": "standalone",
+	"background_color": "#fff",
+	"theme_color": "#fff"
+}
